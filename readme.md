@@ -59,7 +59,7 @@ In step 2 click on Exachange authorization code for tokens button
 ### 11) Get refresh token.
 ![Alt Text](https://awesomescreenshot.s3.amazonaws.com/image/3415276/28644596-ac282f664251bd71a1464a4a4a7a1271.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220613T105247Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=f9a7c6a58faa45bba243ac610cf9702eab042c4f8d48cb9928918de3f02147d5)
 
-
+- Client ID, Client screte ID and refresh token ----> Add into environment file and use into node-app.
 
 
 
