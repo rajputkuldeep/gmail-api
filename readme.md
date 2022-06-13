@@ -1,5 +1,5 @@
 
-# Gamil-api
+# Gmail-api
 
 Send Email with the Gmail API and Node.js
 
